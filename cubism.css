@@ -1,0 +1,104 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+     }
+
+
+    .HOHOHO{
+            text-align: center;
+    }
+    .RH{
+        text-align: center;
+        font-size: xx-large;
+    }
+    .Pablo{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: middle;
+        color: white
+    }
+    .GEO{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    /* I accidentally put claude monet as these pictures and i didnt know who was actually who*/
+    .Pablo{
+        background-image: url(https://th.bing.com/th/id/OIP.Z0jOADcDUaa6x3Q-Hz6-IAHaHa?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+
+    .GEO{
+        background-image: url(https://th.bing.com/th/id/OIP.YxmYIMqTaqqmQrtjc7zmSgAAAA?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+
+    .why{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: middle;
+        color: white
+    }
+    .ugh{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    .eam{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    .eam{
+        background-image: url(https://th.bing.com/th/id/OIP.5HkwlV5b3vF7Kj6W9NXy2AHaJA?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+
+    .ugh{
+        background-image: url(https://th.bing.com/th/id/R.aa8338957e6bfa7bd2fe579bb147dbb1?rik=z1R6fxR6656gEA&riu=http%3a%2f%2fimg.lagaceta.com.ar%2ffotos%2fnotas%2f2013%2f03%2f26%2f538307_20130326201329.jpg&ehk=qofYw7wgwdLa672e3PNSmAIeSV4kROjRAAx%2flYYKJNY%3d&risl=&pid=ImgRaw&r=0https://cdn.flixboss.com/81507281/backdrops/large/AAAABd1eyi4Gq_ziZyMmgM5bfVm3nXueZcyn1oFaUW6QYOwZoIpQEJZyVnafA-0g3KhfcdAsRpRK2_ipynBjNEd4iijMksxQTMDkGIXI.jpg);
+        background-size: cover;
+    }
+    .why{
+        background-image: url(https://th.bing.com/th/id/OIP.P4waAzLKzCnybzBgCN2pqQHaJi?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+
+    .brrr{
+        background-color: rgba(198, 240, 164, 0.726);
+    }
+    #KH{
+       width: 100%; 
+    }

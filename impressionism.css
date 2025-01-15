@@ -1,0 +1,121 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+     }
+
+
+    .HOHOHO{
+            text-align: center;
+    }
+    .RH{
+        text-align: center;
+        font-size: xx-large;
+    }
+    .claude{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: middle;
+        color: white
+    }
+    .alfred{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    .pierre{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color:rgb(255, 255, 255)
+    }
+    .claude{
+        background-image: url(https://p0.pikist.com/photos/380/968/painter-artists-claude-monet-impressionist-1899-black-and-white-man-portrait-bart.jpg);
+        background-size: cover;
+    }
+    .alfred{
+        background-image: url(https://th.bing.com/th/id/OIP.ujrhCpJ7ClzJ_pOSvOSAuwHaJC?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+    .pierre{
+        background-image: url(https://th.bing.com/th/id/OIP.BV3hhRJ8cXNw8LPZPVvShgAAAA?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+    .brrr{
+        background-color: rgba(198, 240, 164, 0.726);
+    }
+    #KH{
+       width: 100%; 
+    }
+
+    .blaaa{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: middle;
+        color: white
+    }
+    .klaaa{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    .blaaaa{
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+        display: inline-block; 
+        padding: 0px;
+        margin: 10px;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        color: white
+    }
+    .blaaa{
+        background-image: url(https://cdn.britannica.com/96/69696-050-BA8459F5/Water-Lilies-oil-canvas-Claude-Monet-Art-1906.jpg);
+        background-size: cover;
+    }
+
+    .klaaa{
+        background-image: url(https://th.bing.com/th/id/R.92096fa9267fe0b65920679932d167ca?rik=Jxp%2bPdE6n0o1yw&pid=ImgRaw&r=0);
+        background-size: cover;
+    }
+    .blaaaa{
+        background-image: url(https://th.bing.com/th/id/OIP.l0vJ41WpkWiVPbBjs6mljAHaGR?rs=1&pid=ImgDetMain);
+        background-size: cover;
+    }
+
+    .brrr{
+        background-color: rgba(198, 240, 164, 0.726);
+    }

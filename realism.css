@@ -1,0 +1,84 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+     }
+   
+        .HOHOHO{
+                text-align: center;
+        }
+        .RH{
+            text-align: center;
+            font-size: xx-large;
+        }
+        .Gustave{
+            width: 200px;
+            height: 200px;
+            border: 3px solid black;
+            display: inline-block; 
+            padding: 0px;
+            margin: 10px;
+            font-family: Arial;
+            font-size: 15px;
+            text-align: middle;
+            color:white
+        }
+        .Gustave{
+            background-image: url(https://th.bing.com/th/id/OSK.HEROQk0VsY6COMY1kykcsC1REkVLR7c8KNbQo2B271pIc6w?rs=1&pid=ImgDetMain);
+            background-size: cover;
+        }
+        #KH{
+           width: 100%; 
+        }
+        .blaaa{
+            width: 200px;
+            height: 200px;
+            border: 3px solid black;
+            display: inline-block; 
+            padding: 0px;
+            margin: 10px;
+            font-family: Arial;
+            font-size: 15px;
+            text-align: middle;
+            color: white
+        }
+        .klaaa{
+            width: 200px;
+            height: 200px;
+            border: 3px solid black;
+            display: inline-block; 
+            padding: 0px;
+            margin: 10px;
+            font-family: Arial;
+            font-size: 15px;
+            text-align: center;
+            color: white
+        }
+        .blaaaa{
+            width: 200px;
+            height: 200px;
+            border: 3px solid black;
+            display: inline-block; 
+            padding: 0px;
+            margin: 10px;
+            font-family: Arial;
+            font-size: 15px;
+            text-align: center;
+            color: white
+        }
+        .blaaa{
+            background-image: url(https://th.bing.com/th/id/R.a5791355ee48c612bfd9d2ee01260c6a?rik=xiaeoydJ5K9k0A&riu=http%3a%2f%2fuploads7.wikiart.org%2fimages%2fhonore-daumier%2fchess-players.jpg&ehk=9Bdl17V71CZRkF1k%2fOreRLeYiNOjOzSBZ6nAHMgOgCU%3d&risl=&pid=ImgRaw&r=0);
+            background-size: cover;
+        }
+    
+        .klaaa{
+            background-image: url(https://www.arthistoryproject.com/site/assets/files/10671/gustav_courbet_-_the_desperate_man_1844-45_45x55cm_pc.jpg);
+            background-size: cover;
+        }
+        .blaaaa{
+            background-image: url(https://2.bp.blogspot.com/-_8Qnui7TUI0/WfZEm9AbZHI/AAAAAAAAGyw/8SRVttsV74YUK__WGgtP3sfluzr-jUPxQCLcBGAs/s1600/Jean-Fran%25C3%25A7ois%2BMillet%2BTutt%2527Art%2540%2B%252819%2529.jpg);
+            background-size: cover;
+        }
+    
+        .brrr{
+            background-color: rgba(198, 240, 164, 0.726);
+        }

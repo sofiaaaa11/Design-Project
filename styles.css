@@ -1,0 +1,29 @@
+
+* { 
+    margin: 0;
+    box-sizing: border-box;
+     }
+    
+.OH{
+text-align: center;
+
+}
+.AH{
+    text-align: center;
+}
+.AHA{
+    text-align: center;
+}
+.EH{
+    text-align: center;
+}
+.TH{
+    text-align: center;
+}
+.FOOT{
+    text-align: center;
+    background-color: rgb(235, 199, 138);
+}
+#title {
+    width: 100%;
+}
